@@ -1,6 +1,6 @@
-#Latihan 1
+#Latihan 2
 
-Maryam baru belajar konsep angka genap dan ganjil. Ayo coba bantu maryam untuk membuat program sederhana yang menentukan apakah sebuah angka genap atau ganjil! Berikut luaran program yang diinginkan apabila anda memberikan masukan angka 5, 10, 0 dan -2
+Maryam baru belajar konsep angka genap dan ganjil. Ayo coba bantu Maryam untuk membuat program sederhana yang menentukan apakah sebuah angka genap atau ganjil! Berikut luaran program yang diinginkan apabila anda memberikan masukan angka 5, 10, 0 dan -2
 
 
 ```
