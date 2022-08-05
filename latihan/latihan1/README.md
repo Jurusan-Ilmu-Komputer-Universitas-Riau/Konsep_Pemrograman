@@ -8,7 +8,8 @@ Buatlah sebuah program yang menampilkan tulisan berikut
 |_____| |   \| |   \  |
 ```
 
-Tambahan: Ada beberapa karakter khusus yang untuk dicetak dalam kode Java, harus diberikan tanda \ di depannya, atau dinamakan *escape sequence*. Silahkan baca [rujukan berikut](https://docs.oracle.com/javase/tutorial/java/data/characters.html).
+Tambahan: Ada beberapa karakter khusus yang untuk dicetak dalam kode Java harus diberikan tanda \ di depannya, atau dinamakan *escape sequence*. Silahkan baca [rujukan berikut](https://docs.oracle.com/javase/tutorial/java/data/characters.html).
+
 Gunakan template program di bawah untuk menuliskan jawaban anda
 
 ```
