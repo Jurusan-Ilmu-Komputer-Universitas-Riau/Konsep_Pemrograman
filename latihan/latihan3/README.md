@@ -7,7 +7,7 @@ Berikut luaran program yang diinginkan apabila anda memberikan masukan 20 jam 50
 31 jam 21 menit 15 detik
 ```
 
-Apabila anda memberikan masukan 0 jam 60 menit dan 60 detik untuk minggu pertama dan kedua
+Apabila anda memberikan masukan 0 jam 60 menit dan 60 detik untuk minggu pertama dan kedua, luaran program ini adalah
 ```
 2 jam 2 menit 0 detik
 ```
