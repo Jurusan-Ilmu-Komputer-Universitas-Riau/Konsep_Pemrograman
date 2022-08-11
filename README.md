@@ -13,12 +13,9 @@ Modul 2: Variabel dan Operator
 - Latihan 2: Genap atau ganjil [Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan2)] [[Video Pembahasan]()]
 - Latihan 3: Penjumlahan dua waktu [Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)] [[Video Pembahasan]()]
 
+Modul 4: Percabangan (kondisi)
+- if, if else, if else if, nested if
+- Ternary operator
+- Latihan 8: Perhitungan pajak
+- Latihan 9: Mencari nilai maksimum
 
-
-
-- Latihan 1: [Halo UNRI!]
-- Latihan 2: [Ganjil atau genap?](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan2)
-- Latihan 3: [Penjumlahan dua waktu](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)
-
-
-https://youtu.be/lIYRXlUHJRQ
