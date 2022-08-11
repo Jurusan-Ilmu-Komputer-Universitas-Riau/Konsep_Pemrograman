@@ -10,7 +10,7 @@ Modul 1: Pengantar Konsep Pemrograman
 
 
 Modul 2: Variabel dan Operator
-- Variabel [[Video](https://www.youtube.com/watch?v=GpYSoHiEe5A)]
+- Variabel [[Video](https://youtu.be/zG_0OV9TTnE)]
 - Operator aritmatik, relasional dan logika [[Video](https://www.youtube.com/watch?v=GpYSoHiEe5A)]
 - Latihan 2: Genap atau ganjil [Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan2)] [[Video Pembahasan]()]
 - Latihan 3: Penjumlahan dua waktu [Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)] [[Video Pembahasan]()]
