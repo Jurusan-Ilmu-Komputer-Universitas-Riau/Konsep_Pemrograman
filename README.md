@@ -7,6 +7,17 @@ Modul 1: Pengantar Konsep Pemrograman
 - Pembuatan program pertama: Hello World [[Video](https://youtu.be/lIYRXlUHJRQ)]
 - Latihan 1: Halo UNRI! [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan1)] [[Video Pembahasan](https://youtu.be/LIZ-G7iIyFI)]
 
+
+
+Modul 2: Variabel dan Operator
+- Variabel [[Video](https://www.youtube.com/watch?v=GpYSoHiEe5A)]
+- Operator aritmatik, relasional dan logika [[Video](https://www.youtube.com/watch?v=GpYSoHiEe5A)]
+- Latihan 2: Genap atau ganjil [Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan2)] [[Video Pembahasan]()]
+- Latihan 3: Penjumlahan dua waktu [Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)] [[Video Pembahasan]()]
+
+
+
+
 - Latihan 1: [Halo UNRI!]
 - Latihan 2: [Ganjil atau genap?](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan2)
 - Latihan 3: [Penjumlahan dua waktu](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)
