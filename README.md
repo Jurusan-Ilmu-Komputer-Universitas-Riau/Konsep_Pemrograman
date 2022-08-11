@@ -22,8 +22,8 @@ Modul 3: Debugging dan Standar Pengkodean (Coding Standard)
 - Latihan 7: Cari penyebab kesalahan logika (4)
 
 Modul 4: Percabangan (kondisi)
-- if, if else, if else if, nested if
-- Ternary operator
+- if, if else, if else if, nested if [[Video](https://youtu.be/3PDcEyPbODc)]
+- Ternary operator [[Video](https://youtu.be/tOL_4tPzWq4)]
 - Latihan 8: Perhitungan pajak
 - Latihan 9: Mencari nilai maksimum
 
