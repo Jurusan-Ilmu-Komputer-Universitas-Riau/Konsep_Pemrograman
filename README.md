@@ -33,12 +33,12 @@ Modul 5: Perulangan (looping)
 - Latihan 11: Pengecekan bilangan prima 
 
 Modul 6: Fungsi/Methods
-- Pengenalan fungsi, parameter dan nilai kembalian [[Video](https://youtu.be/lD2FpFgp6-s)]
+- Pengenalan fungsi, parameter dan nilai kembalian [[Video](https://youtu.be/X5Vix4Qy1uA]
 - Latihan 12: Penghitungan pangkat
 - Latihan 13: Pengacak kata
 
 Modul 7: Array
 - Deklarasi array, instansiasi array, perulangan.
-- Array multidimensi
+- Array multidimensi [[Video](https://youtu.be/pjOSn8ntsZk)]
 - Latihan 14: Permainan tic tac toe 
 
