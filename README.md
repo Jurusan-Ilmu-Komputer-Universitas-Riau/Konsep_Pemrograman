@@ -33,7 +33,7 @@ Modul 5: Perulangan (looping)
 - Latihan 11: Pengecekan bilangan prima 
 
 Modul 6: Fungsi/Methods
-- Pengenalan fungsi, parameter dan nilai kembalian 
+- Pengenalan fungsi, parameter dan nilai kembalian [[Video](https://youtu.be/lD2FpFgp6-s)]
 - Latihan 12: Penghitungan pangkat
 - Latihan 13: Pengacak kata
 
