@@ -38,7 +38,7 @@ Modul 6: Fungsi/Methods
 - Latihan 13: Pengacak kata
 
 Modul 7: Array
-- Deklarasi array, instansiasi array, perulangan.
+- Deklarasi array, instansiasi array, perulangan [[Video](https://youtu.be/tm08XpT-kJw)]
 - Array multidimensi [[Video](https://youtu.be/pjOSn8ntsZk)]
 - Latihan 14: Permainan tic tac toe 
 
