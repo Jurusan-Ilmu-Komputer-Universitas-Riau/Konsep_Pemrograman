@@ -28,17 +28,17 @@ Modul 4: Percabangan (kondisi)
 - Latihan 9: Mencari nilai maksimum
 
 Modul 5: Perulangan (looping)
-- for loop
-- while, do while, break dan continue
+- while dan for loop [[Video](https://youtu.be/Gpya9oGrkaY)]
 - Latihan 10: Tebak-tebak hasil program
 - Latihan 11: Pengecekan bilangan prima 
 
 Modul 6: Fungsi/Methods
-- Pengenalan fungsi, parameter dan nilai kembalian (return value)
+- Pengenalan fungsi, parameter dan nilai kembalian 
 - Latihan 12: Penghitungan pangkat
 - Latihan 13: Pengacak kata
 
 Modul 7: Array
-- Deklarasi array, instansiasi array, array dimensi 1, 2 dan 3
+- Deklarasi array, instansiasi array, perulangan.
+- Array multidimensi
 - Latihan 14: Permainan tic tac toe 
 
