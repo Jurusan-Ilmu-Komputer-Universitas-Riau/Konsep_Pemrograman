@@ -24,8 +24,8 @@ Modul 3: Debugging dan Standar Pengkodean (Coding Standard)
 Modul 4: Percabangan (kondisi)
 - if, if else, if else if, nested if [[Video](https://youtu.be/3PDcEyPbODc)]
 - Ternary operator [[Video](https://youtu.be/tOL_4tPzWq4)]
-- Latihan 8: Perhitungan pajak
-- Latihan 9: Mencari nilai maksimum
+- Latihan 8: Mencari nilai maksimum
+- Latihan 9: Perhitungan pajak
 
 Modul 5: Perulangan (looping)
 - while dan for loop [[Video](https://youtu.be/Gpya9oGrkaY)]
@@ -33,7 +33,7 @@ Modul 5: Perulangan (looping)
 - Latihan 11: Pengecekan bilangan prima 
 
 Modul 6: Fungsi/Methods
-- Pengenalan fungsi, parameter dan nilai kembalian [[Video](https://youtu.be/X5Vix4Qy1uA]
+- Pengenalan fungsi, parameter dan nilai kembalian [[Video](https://youtu.be/X5Vix4Qy1uA)]
 - Latihan 12: Penghitungan pangkat
 - Latihan 13: Pengacak kata
 
