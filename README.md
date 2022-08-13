@@ -5,7 +5,7 @@ Modul 1: Pengantar Konsep Pemrograman
 - Pengantar konsep pemrograman dan algoritma [[Video](https://youtu.be/KLBsMuF35jI)]
 - Pengenalan bahasa pemrograman, kompiler dan Java Virtual Machine [[Video](https://www.youtube.com/watch?v=leCWaMySuRQ)]
 - Pembuatan program pertama: Hello World [[Video](https://youtu.be/lIYRXlUHJRQ)]
-- Latihan 1: Halo UNRI! [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan1)] [[Video Pembahasan](https://youtu.be/LIZ-G7iIyFI)][[CodePost](https://www.codepost.io/)* nama tugas: Halo Unri]
+- Latihan 1: Halo UNRI! [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan1)] [[Pembahasan](https://youtu.be/LIZ-G7iIyFI)][[CodePost]: Halo Unri(https://www.codepost.io/)]*]
 
 Modul 2: Variabel dan Operator
 - Variabel [[Video](https://youtu.be/Ca0N2hmSd-k)]
