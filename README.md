@@ -17,9 +17,9 @@ Modul 3: Debugging dan Standar Pengkodean (Coding Standard)
 - Pengenalan jenis error dan fitur debugging dengan IDE
 - Standar Pengkodean 
 - Latihan 4: Cari penyebab kesalahan kompilasi (1) [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan4)] [[Video Pembahasan]()][[CodePost](https://www.codepost.io/)* nama tugas: Penjumlahan dua waktu]
-- Latihan 5: Cari penyebab kesalahan kompilasi (2) [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)] [[Video Pembahasan]()][[CodePost](https://www.codepost.io/)* nama tugas: Penjumlahan dua waktu]
-- Latihan 6: Cari penyebab kesalahan run time (3) [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)] [[Video Pembahasan]()][[CodePost](https://www.codepost.io/)* nama tugas: Penjumlahan dua waktu]
-- Latihan 7: Cari penyebab kesalahan logika (4) [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)] [[Video Pembahasan]()][[CodePost](https://www.codepost.io/)* nama tugas: Penjumlahan dua waktu]
+- Latihan 5: Cari penyebab kesalahan kompilasi (2) [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan5)] [[Video Pembahasan]()][[CodePost](https://www.codepost.io/)* nama tugas: Penjumlahan dua waktu]
+- Latihan 6: Cari penyebab kesalahan run time (3) [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan6)] [[Video Pembahasan]()][[CodePost](https://www.codepost.io/)* nama tugas: Penjumlahan dua waktu]
+- Latihan 7: Cari penyebab kesalahan logika (4) [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan7)] [[Video Pembahasan]()][[CodePost](https://www.codepost.io/)* nama tugas: Penjumlahan dua waktu]
 
 Modul 4: Percabangan (kondisi)
 - if, if else, if else if, nested if [[Video](https://youtu.be/3PDcEyPbODc)]
