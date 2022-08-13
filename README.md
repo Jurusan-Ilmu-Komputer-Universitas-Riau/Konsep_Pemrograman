@@ -5,13 +5,13 @@ Modul 1: Pengantar Konsep Pemrograman
 - Pengantar konsep pemrograman dan algoritma [[Video](https://youtu.be/KLBsMuF35jI)]
 - Pengenalan bahasa pemrograman, kompiler dan Java Virtual Machine [[Video](https://www.youtube.com/watch?v=leCWaMySuRQ)]
 - Pembuatan program pertama: Hello World [[Video](https://youtu.be/lIYRXlUHJRQ)]
-- Latihan 1: Halo UNRI! [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan1)] [[Video Pembahasan](https://youtu.be/LIZ-G7iIyFI)]
+- Latihan 1: Halo UNRI! [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan1)] [[Video Pembahasan](https://youtu.be/LIZ-G7iIyFI)][[CodePost](https://www.codepost.io/) nama tugas: Halo Unri]
 
 Modul 2: Variabel dan Operator
 - Variabel [[Video](https://youtu.be/Ca0N2hmSd-k)]
 - Operator aritmatik, relasional dan logika [[Video](https://youtu.be/uLr7xOZcHio)]
-- Latihan 2: Genap atau ganjil [Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan2)] [[Video Pembahasan]()]
-- Latihan 3: Penjumlahan dua waktu [Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)] [[Video Pembahasan]()]
+- Latihan 2: Genap atau ganjil [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan2)] [[Video Pembahasan]()]
+- Latihan 3: Penjumlahan dua waktu [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)] [[Video Pembahasan]()]
 
 Modul 3: Debugging dan Standar Pengkodean (Coding Standard)
 - Pengenalan jenis error dan fitur debugging dengan IDE
