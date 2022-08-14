@@ -1,11 +1,11 @@
-/******************************************************************************
+/**
  *  Nama   : 
  *  Kelas  : Konsep Pemrograman 
  *  Tanggal: 
  *
  *  Latihan 3: Program ini menerima masukan sebuah bilangan bulat, kemudian
  *             akan menampilkan apakah bilangan tersebut ganjil atau genap
- ******************************************************************************/
+ */
 
 
 /**
@@ -19,7 +19,7 @@ public class TimeCalculation {
         addTime(0,60,60, 0,60,60);
     }
     
-    /****************************************************
+    /**
      * Fungsi ini menambahkan dua waktu, dimana akan ditampilkan
      * dalam satuan jam, menit dan detik
      * @param hr1 jumlah waktu bekerja pada minggu pertama (jam)
