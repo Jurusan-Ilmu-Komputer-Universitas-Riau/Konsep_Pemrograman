@@ -32,6 +32,12 @@ public class NumberTest {
         checkEvenOdd(-2);
     }
     
+    /**
+     * Fungsi ini untuk memeriksa apakah input merupakan bilangan genap atau ganjil
+     * 
+     * @input nilai masukan
+     * @return void
+     * */
     public static void checkEvenOdd(int input){
         //Disini program anda
     }

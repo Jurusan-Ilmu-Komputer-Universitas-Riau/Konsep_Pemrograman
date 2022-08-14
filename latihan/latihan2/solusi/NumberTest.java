@@ -22,6 +22,12 @@ public class NumberTest {
         checkEvenOdd(-2);
     }
     
+    /**
+     * Fungsi ini untuk memeriksa apakah input merupakan bilangan genap atau ganjil
+     * 
+     * @input nilai masukan
+     * @return void
+     * */
     public static void checkEvenOdd(int input){
         Boolean isEven = (input % 2) == 0;
         System.out.println(input + " adalah genap: " + isEven + ", ganjil: " + !isEven);
