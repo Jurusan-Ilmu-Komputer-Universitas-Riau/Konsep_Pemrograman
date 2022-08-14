@@ -18,8 +18,8 @@ Modul 3: Debugging dan Standar Pengkodean (Coding Standard)
 - Standar Pengkodean 
 - Latihan 4: Kesalahan kompilasi 1 [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan4)] [[Pembahasan]()][[CodePost: Latihan 4](https://www.codepost.io/)]*
 - Latihan 5: Kesalahan kompilasi 2 [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan5)] [[Pembahasan]()][[CodePost: Latihan 5](https://www.codepost.io/)]*
-- Latihan 6: Kesalahan [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan6)] [[Pembahasan]()][[CodePost: Latihan 6](https://www.codepost.io/)]*
-- Latihan 7: Cari penyebab kesalahan logika (4) [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan7)] [[Pembahasan]()][[CodePost: Latihan 7](https://www.codepost.io/)]*
+- Latihan 6: Kesalahan run time [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan6)] [[Pembahasan]()][[CodePost: Latihan 6](https://www.codepost.io/)]*
+- Latihan 7: Kesalahan Logika [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan7)] [[Pembahasan]()][[CodePost: Latihan 7](https://www.codepost.io/)]*
 
 Modul 4: Percabangan (kondisi)
 - if, if else, if else if, nested if [[Video](https://youtu.be/3PDcEyPbODc)]
