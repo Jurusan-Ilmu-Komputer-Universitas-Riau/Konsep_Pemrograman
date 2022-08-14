@@ -42,4 +42,4 @@ Modul 7: Array
 - Array multidimensi [[Video](https://youtu.be/pjOSn8ntsZk)]
 - Latihan 14: Permainan tic tac toe [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)][[Pembahasan]()][[CodePost: Latihan 4](https://www.codepost.io/)]
 
-*) Untuk menggunakan codePost, anda harus membuat akun dan dimasukkan dalam daftar kelas. Hubungi tisha[dot]melia[at]lecturer[dot]unri[dot]ac[dot]id untuk dapat menggunakan codePost.
+*) Untuk menggunakan codePost, anda harus membuat akun dan dimasukkan dalam daftar kelas. Hubungi tisha[dot]melia[at]lecturer[dot]unri[dot]ac[dot]id agar nama anda dapat didaftarkan sebagai mahasiswa modul ini.
