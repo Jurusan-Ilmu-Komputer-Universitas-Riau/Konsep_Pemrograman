@@ -1,24 +1,43 @@
-#Latihan 7
+#Latihan 9
 
-Aan, Budi, Caca, Dodi dan Edo masing masing mempunyai kelereng, dan ingin mengetahui siapa yang mempunyai kelereng yang paling banyak dan paling sedikit. Buatlah program untuk menyelesaikan hal tersebut! Perhatikan luaran program di bawah
+Buatlah sebuah program untuk menghitung pajak penghasilan (PPh) pegawai tetap dengan ketentuan sebagai berikut: 
+- Informasi yang diterima adalah: 
+    1. Jumlah penghasilan kumulatif satu tahun (int)
+    2. Status perkawinan (K/TK), K=Kawin dan TK=Tidak Kawin
+    3. Jumlah tanggungan (0-3)
+- Penghasilan Tidak Kena Pajak (PTKP) adalah nilai yang harus dikurang dari total penghasilan satu tahun sebelum dilakukan penghitungan pajak, dimana jumlahnya tergantung status perkawinan dan jumlah tanggungan sebagai berikut:
 
-Apabila kelereng Aan, Budi, Caca, Dodi dan Edo adalah 5, 2, 1, 7 dan 5, Maka nilai maksimum adalah 7 dan nilai minimum adalah 1.
+| Status Perkawinan  | Jumlah Tanggungan  | Jumlah PTKP |
+| ------------------ | ------------------ | ------------|
+| Tidak Kawin        | 0                  | 54.000.000  |
+| Tidak Kawin        | 1                  | 58.500.000  |
+| Tidak Kawin        | 2                  | 63.000.000  |
+| Tidak Kawin        | 3                  | 67.500.000  |
+| Kawin              | 0                  | 58.500.000  |
+| Kawin              | 1                  | 63.000.000  |
+| Kawin              | 2                  | 67.500.000  |
+| Kawin              | 3                  | 72.000.000  |
 
-Gunakan template program di bawah untuk menuliskan jawaban anda. Anda hanya perlu menyelesaikan implementasi mencari nilai maksimum dalam fungsi findMax. Fungsi ini menerima 5 masukan, yaitu:
-- input1, angka 1 untuk dicari nilai maksimum
-- input2, angka 2 untuk dicari nilai maksimum
-- input3, angka 3 untuk dicari nilai maksimum
-- input4, angka 4 untuk dicari nilai maksimum
-- input5, angka 5 untuk dicari nilai maksimum
-Fungsi ini akan mengembalikan nilai maksimum di antara 5 nilai di atas
+- Setelah dikurang PTKP, penghasilan setahun menjadi Penghasilan Kena Pajak (PKP). Untuk menghitung besaran pajak, PKP dikalikan dengan tarif pajak seperti berikut:
 
-Kemudian gunakan juga template program di bawah untuk menyelesaikan implementasi fungsi mencari nilai minimum dalam fungsi findMin. Fungsi ini menerima 5 masukan, yaitu:
-- input1, angka 1 untuk dicari nilai minimum
-- input2, angka 2 untuk dicari nilai minimum
-- input3, angka 3 untuk dicari nilai minimum
-- input4, angka 4 untuk dicari nilai minimum
-- input5, angka 5 untuk dicari nilai minimum
-Fungsi ini akan mengembalikan nilai minimum di antara 5 nilai di atas
+| PKP (Penghasilan Setahun - PTKP)                     | Tarif Pajak |
+| ---------------------------------------------------- | ----------- |
+| Sampai dengan Rp 50.000.000                          | 5%          |           
+| Di atas Rp 50.000.000 sampai dengan Rp 250.000.000   | 15%         |
+| Di atas Rp 250.000.000 sampai dengan Rp 500.000.000  | 25%         |
+| Di atas Rp 500.000.000                               | 30%         |
+
+Berikut tiga contoh kasus perhitungan besar pajak:
+- Jika penghasilan setahun Rp. 150.000.000, status tidak kawin dan tidak ada tanggungan, maka besar pajak adalah Rp. 14.400.000
+- Jika penghasilan setahun Rp. 150.000.000, status tidak kawin dan ada 3 orang tanggungan, maka besar pajak adalah Rp. 12.375.000
+- Jika penghasilan setahun Rp. 150.000.000, status kawin dan ada 3 orang tanggungan, maka besar pajak adalah Rp. 11.700.000
+
+
+Gunakan template program di bawah untuk menuliskan jawaban anda. Anda hanya perlu menyelesaikan kode untuk menghitung besaran pajak melalui calculateTax. Fungsi ini menerima 3 masukan, yaitu:
+- annualSalary, gaji dalam setahun 
+- marriageStatus, status pernikahan: TK=Tidak Kawin atau K=Kawin
+- dependentNum, jumlah tanggungan (minimum 0 dan maksimum 3)
+Fungsi ini akan mengembalikan perhitungan besaran pajak yang harus dibayar
 
 ```
 /**
@@ -26,66 +45,53 @@ Fungsi ini akan mengembalikan nilai minimum di antara 5 nilai di atas
  *  Kelas  : Konsep Pemrograman 
  *  Tanggal: 
  *
- *  Latihan 8: Program ini menemukan angka maksimum dan minimum dari 5 angka
+ *  Latihan 9: Program ini menghitung besaran pajak
  */
 
-public class Marble {
-
+/**
+ * Kelas ini digunakan untuk menghitung besaran pajak
+ * 
+ */
+public class TaxCalculator {
+    final static int ADDITION_PER_DEPENDENT = 4500000;
+    final static int PTKP_NOTMARRIED = 54000000;
+    final static int PTKP_MARRIED = 58500000;
+    
     public static void main(String[] args) {
-        int result = findMax(2,4,1,10,2);
-        System.out.println("maksimum: " + result);
-        result = findMin(2,4,1,10,2);
-        System.out.println("minimum: " + result);
         
-        result = findMax(2,2,2,2,2);
-        System.out.println("maksimum: " + result);
-        result = findMin(2,2,2,2,2);
-        System.out.println("minimum: " + result);
+        //Penghitungan pajak kasus 1
+        int tax = calculateTax(150000000, "TK", 0);
+        System.out.println(tax);
         
-        result = findMax(-4,-2,-8,-1,-9);
-        System.out.println("maksimum: " + result);
-        result = findMin(-4,-2,-8,-1,-9);
-        System.out.println("minimum: " + result);
+        //Penghitungan pajak kasus 2
+        tax = calculateTax(150000000, "TK", 3);
+        System.out.println(tax);
+        
+        //Penghitungan pajak kasus 2
+        tax = calculateTax(150000000, "K", 3);
+        System.out.println(tax);
     }
-    
-    /**
-     * Fungsi untuk mencari nilai maksimum dari 5 angka yang diterima
-     * 
-     * @param input1 angka pertama
-     * @param input2 angka kedua
-     * @param input3 angka ketiga
-     * @param input4 angka keempat
-     * @param input5 angka kelima
-     * @return nilai maksimum dari lima angka yang diterima
-     */
-    public static int findMax(int input1, int input2, int input3, int input4, int input5){
-        int max;    //variabel penyimpan nilai maksimum
-        //Selesaikan implementasi koding disini
 
-        return max; //mengembalikan nilai maksimum
-    }
-    
     /**
-     * Fungsi untuk mencari nilai minimum dari 5 angka yang diterima
-     * 
-     * @param input1 angka pertama
-     * @param input2 angka kedua
-     * @param input3 angka ketiga
-     * @param input4 angka keempat
-     * @param input5 angka kelima
-     * @return nilai minimum dari lima angka
+     * Kode ini menghitung besaran pajak, dimana menerima masukan 3 variabel dan 
+     * mengembalikan jumlah pajak yang harus dibayar
+     * @param annualSalary gaji dalam setahun 
+     * @param marriageStatus status pernikahan, TK=Tidak Kawin atau K=Kawin
+     * @param dependentNum jumlah tanggungan, minimum 0 dan maksimum 3
+     * @return Besaran pajak yang harus dibayar
      */
-    public static int findMin(int input1, int input2, int input3, int input4, int input5){
-        int min;    //variabel penyimpan nilai minimum
-        //Selesaikan implementasi koding disini
+    public static int calculateTax(int annualSalary, String marriageStatus, int dependentNum){
+        int tax = 0; //variabel untuk menghitung pajak
+        
+        //Selesaikan implementasi penghitungan besaran pajak
 
-        return min; //mengembalikan nilai minimum
+        return tax;
     }
 }
 
 
 ```
-Kumpulkan jawaban anda via CodePost](https://www.codepost.io/) dengan nama tugas: Latihan 8. Untuk menggunakan codePost, anda harus membuat akun dan dimasukkan dalam daftar kelas. Hubungi tisha[dot]melia[at]lecturer[dot]unri[dot]ac[dot]id untuk mendaftar.
+Kumpulkan jawaban anda via CodePost](https://www.codepost.io/) dengan nama tugas: Latihan 9. Untuk menggunakan codePost, anda harus membuat akun dan dimasukkan dalam daftar kelas. Hubungi tisha[dot]melia[at]lecturer[dot]unri[dot]ac[dot]id untuk mendaftar.
 
 Selamat Bekerja!
 

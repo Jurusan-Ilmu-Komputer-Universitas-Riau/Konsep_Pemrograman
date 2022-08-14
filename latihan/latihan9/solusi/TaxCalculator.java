@@ -3,7 +3,7 @@
  *  Kelas  : Konsep Pemrograman 
  *  Tanggal: 
  *
- *  Latihan 4: Program ini menemukan angka maksimum dari 5 angka
+ *  Latihan 9: Program ini menghitung besaran pajak
  */
 
 /**
