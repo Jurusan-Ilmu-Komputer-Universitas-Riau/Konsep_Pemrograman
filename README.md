@@ -24,8 +24,8 @@ Modul 3: Debugging dan Standar Pengkodean (Coding Standard)
 Modul 4: Percabangan (kondisi)
 - if, if else, if else if, nested if [[Video](https://youtu.be/3PDcEyPbODc)]
 - Ternary operator [[Video](https://youtu.be/tOL_4tPzWq4)]
-- Latihan 8: Mencari nilai maksimum [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)] [[Pembahasan]()][[CodePost: Latihan 4](https://www.codepost.io/)]*
-- Latihan 9: Perhitungan pajak [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)] [[Pembahasan]()][[CodePost: Latihan 4](https://www.codepost.io/)]*
+- Latihan 8: Mencari nilai maksimum [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)] [[Pembahasan]()][[CodePost: Maksimum dan minimum](https://www.codepost.io/)]*
+- Latihan 9: Perhitungan pajak [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)] [[Pembahasan]()][[CodePost: Hitung pajak](https://www.codepost.io/)]*
 
 Modul 5: Perulangan (looping)
 - while dan for loop [[Video](https://youtu.be/Gpya9oGrkaY)]
