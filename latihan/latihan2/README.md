@@ -14,14 +14,14 @@ Maryam baru belajar konsep angka genap dan ganjil. Ayo coba bantu Maryam untuk m
 Gunakan template program di bawah untuk menuliskan jawaban anda. Anda hanya perlu menyelesaikan implementasi pengecekan angka ganjil dan genap di dalam fungsi checkEvenOdd, yang mana fungsi ini menerima masukan dalam variabel input (int). Luaran dari fungsi ini adalah mencetak teks di layar mengindikasikan apakah angka tersebut ganjil atau genap.
 
 ```
-/******************************************************************************
+/**
  *  Nama   : 
  *  Kelas  : Konsep Pemrograman 
  *  Tanggal: 
  *
  *  Latihan 1: Menampilkan tulisan UNRI. Tuliskan deskripsi lainnya
  *
- ******************************************************************************/
+ */
 
 public class NumberTest {
 
