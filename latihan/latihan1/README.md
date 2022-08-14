@@ -13,14 +13,14 @@ Tambahan: Ada beberapa karakter khusus yang untuk dicetak dalam kode Java harus 
 Gunakan template program di bawah untuk menuliskan jawaban anda
 
 ```
-/******************************************************************************
+/**
  *  Nama   : 
  *  Kelas  : Konsep Pemrograman 
  *  Tanggal: 
  *
  *  Latihan 1: Menampilkan tulisan UNRI. Tuliskan deskripsi lainnya
  *
- ******************************************************************************/
+ */
 
 public class HaloUnri {
     
