@@ -22,13 +22,13 @@ Gunakan template program di bawah untuk menuliskan jawaban anda. Anda hanya perl
 Hasil penjumlahan harus dicetak di layar dalam format 31 jam 21 menit 15 detik
 
 ```
-/******************************************************************************
+/**
  *  Nama   : 
  *  Kelas  : Konsep Pemrograman 
  *  Tanggal: 
  *
  *  Latihan 3: Program ini menjumlahkan dua waktu dalam satuan jam, menit dan detik
- ******************************************************************************/
+ */
 
 public class TimeCalculation {
 
@@ -37,7 +37,7 @@ public class TimeCalculation {
         addTime(0,60,60, 0,60,60);
     }
     
-    /****************************************************
+    /***
      * Fungsi ini menambahkan dua waktu, dimana akan ditampilkan
      * dalam satuan jam, menit dan detik
      * @param hr1 jumlah waktu bekerja pada minggu pertama (jam)
@@ -47,7 +47,7 @@ public class TimeCalculation {
      * @param min2 jumlah waktu bekerja pada minggu kedua (menit)
      * @param sec2 jumlah waktu bekerja pada minggu kedua (detik)
      * 
-     ****************************************************/
+     */
 
     public static void addTime(int hr1, int min1, int sec1, int hr2, int min2, int sec2){
         //selesaikan implementasi fungsi ini
