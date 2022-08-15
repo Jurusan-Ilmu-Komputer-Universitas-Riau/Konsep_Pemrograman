@@ -29,7 +29,7 @@ Modul 4: Percabangan (kondisi)
 
 Modul 5: Perulangan (looping)
 - while dan for loop [[Video](https://youtu.be/Gpya9oGrkaY)]
-- Latihan 10: Tebak-tebak hasil program [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)][[Pembahasan]()][[CodePost: Latihan 4](https://www.codepost.io/)]
+- Latihan 10: Tebak-tebak hasil program [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)][[Pembahasan]()]
 - Latihan 11: Pengecekan bilangan prima [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)][[Pembahasan]()][[CodePost: Latihan 4](https://www.codepost.io/)]
 
 Modul 6: Fungsi/Methods
