@@ -5,12 +5,12 @@ Modul 1: Pengantar Konsep Pemrograman
 - Pengantar konsep pemrograman dan algoritma [[Video](https://youtu.be/rl3S9SiRCEU)]
 - Pengenalan bahasa pemrograman, kompiler dan Java Virtual Machine [[Video](https://youtu.be/zqTh9WXW9gg)]
 - Pembuatan program pertama: Hello World [[Video](https://youtu.be/lIYRXlUHJRQ)]
-- Latihan 1: Halo UNRI! [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan1)] [[Pembahasan](https://youtu.be/LIZ-G7iIyFI)][codePost: Halo Unri]*
+- Latihan 1: Halo UNRI! [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan1)] [[Pembahasan](https://youtu.be/LIZ-G7iIyFI)][[codePost](https://www.codepost.io/): Halo Unri]*
 
 Modul 2: Variabel dan Operator
 - Variabel [[Video](https://youtu.be/Ca0N2hmSd-k)]
 - Operator aritmatik, relasional dan logika [[Video](https://youtu.be/uLr7xOZcHio)]
-- Latihan 2: Genap atau ganjil [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan2)] [[Pembahasan]()][codePost: Genap atau ganjil]*
+- Latihan 2: Genap atau ganjil [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan2)] [[Pembahasan]()][[codePost](https://www.codepost.io/): Genap atau ganjil]*
 - Latihan 3: Penjumlahan dua waktu [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)][[Pembahasan]()][[codePost: Penjumlahan dua waktu](https://www.codepost.io/)]*
 
 Modul 3: Debugging dan Standar Pengkodean (Coding Standard)
