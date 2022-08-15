@@ -1,0 +1,4 @@
+potongan kode pertama: x = 6
+potongan kode kedua: x = 0
+potongan kode ketiga: x = 20
+
