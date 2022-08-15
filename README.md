@@ -35,7 +35,7 @@ Modul 5: Perulangan (looping)
 Modul 6: Fungsi/Methods
 - Pengenalan fungsi, parameter dan nilai kembalian [[Video](https://youtu.be/X5Vix4Qy1uA)]
 - Latihan 12: Penghitungan pangkat [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan12)][[Pembahasan]()][[CodePost: Latihan 4](https://www.codepost.io/)]
-- Latihan 13: Pengacak kata [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)][[Pembahasan]()][[CodePost: Latihan 4](https://www.codepost.io/)]
+- Latihan 13: Pengacak kata [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)][[Pembahasan](https://youtu.be/NvVD9q6QoYs)][[CodePost](https://www.codepost.io/): Latihan 13]
 
 Modul 7: Array
 - Deklarasi array, instansiasi array, perulangan [[Video](https://youtu.be/tm08XpT-kJw)]
