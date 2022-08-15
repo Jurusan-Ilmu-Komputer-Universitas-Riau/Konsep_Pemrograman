@@ -19,18 +19,18 @@ Modul 3: Debugging dan Standar Pengkodean (Coding Standard)
 - Latihan 4: Kesalahan kompilasi 1 [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan4)] [[Pembahasan]()][[CodePost: Latihan 4](https://www.codepost.io/)]*
 - Latihan 5: Kesalahan kompilasi 2 [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan5)] [[Pembahasan]()][[CodePost: Latihan 5](https://www.codepost.io/)]*
 - Latihan 6: Kesalahan run time [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan6)] [[Pembahasan]()][[CodePost: Latihan 6](https://www.codepost.io/)]*
-- Latihan 7: Kesalahan Logika [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan7)] [[Pembahasan]()][[CodePost: Latihan 7](https://www.codepost.io/)]*
+- Latihan 7: Kesalahan Logika [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan7)] [[Pembahasan]()][[CodePost](https://www.codepost.io/): Latihan 7]*
 
 Modul 4: Percabangan (kondisi)
 - if, if else, if else if, nested if [[Video](https://youtu.be/3PDcEyPbODc)]
 - Ternary operator [[Video](https://youtu.be/tOL_4tPzWq4)]
-- Latihan 8: Mencari nilai maksimum [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan8)] [[Pembahasan]()][[CodePost: Maksimum dan minimum](https://www.codepost.io/)]*
-- Latihan 9: Perhitungan pajak [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan9)] [[Pembahasan]()][[CodePost: Hitung pajak](https://www.codepost.io/)]*
+- Latihan 8: Mencari nilai maksimum [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan8)] [[Pembahasan]()][[CodePost](https://www.codepost.io/): Maksimum dan minimum]*
+- Latihan 9: Perhitungan pajak [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan9)] [[Pembahasan]()][[CodePost](https://www.codepost.io/): Hitung pajak]*
 
 Modul 5: Perulangan (looping)
 - while dan for loop [[Video](https://youtu.be/Gpya9oGrkaY)]
 - Latihan 10: Tebak-tebak hasil program [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan10)][[Pembahasan]()]
-- Latihan 11: Pengecekan bilangan prima [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan11)][[Pembahasan]()][[CodePost: Latihan 4](https://www.codepost.io/)]
+- Latihan 11: Pengecekan bilangan prima [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan11)][[Pembahasan]()][[CodePost](https://www.codepost.io/): Latihan 4]*
 
 Modul 6: Fungsi/Methods
 - Pengenalan fungsi, parameter dan nilai kembalian [[Video](https://youtu.be/X5Vix4Qy1uA)]
