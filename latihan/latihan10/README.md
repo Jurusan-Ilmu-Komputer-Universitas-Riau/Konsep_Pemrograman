@@ -32,7 +32,7 @@ public class Hitung {
 ```
 public class Hitung {
     public static void Main(String[] args) {
-        int x = 20
+        int x = 10
         while(true){
            x += 2;
            if(x == 20)break;

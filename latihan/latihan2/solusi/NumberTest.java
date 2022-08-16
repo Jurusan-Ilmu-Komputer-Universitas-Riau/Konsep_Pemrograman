@@ -29,7 +29,7 @@ public class NumberTest {
      * @return void
      * */
     public static void checkEvenOdd(int input){
-        Boolean isEven = (input % 2) == 0;
+        boolean isEven = (input % 2) == 0;
         System.out.println(input + " adalah genap: " + isEven + ", ganjil: " + !isEven);
     }
 }

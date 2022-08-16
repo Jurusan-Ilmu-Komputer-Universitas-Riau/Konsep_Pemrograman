@@ -11,21 +11,21 @@ Modul 2: Variabel dan Operator
 - Variabel [[Video](https://youtu.be/Ca0N2hmSd-k)]
 - Operator aritmatik, relasional dan logika [[Video](https://youtu.be/uLr7xOZcHio)]
 - Latihan 2: Genap atau ganjil [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan2)] [[Pembahasan]()][[codePost](https://www.codepost.io/): Genap atau ganjil]*
-- Latihan 3: Penjumlahan dua waktu [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)][[Pembahasan]()][[codePost: Penjumlahan dua waktu](https://www.codepost.io/)]*
+- Latihan 3: Penjumlahan dua waktu [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)][[Pembahasan](https://youtu.be/NGjI4z1h4xw)][[codePost: Penjumlahan dua waktu](https://www.codepost.io/)]*
 
 Modul 3: Debugging dan Standar Pengkodean (Coding Standard)
 - Pengenalan jenis error dan fitur debugging dengan IDE [[Video](https://youtu.be/mcJzoLn8_Ss)]
 - Standar Pengkodean [[Video](https://youtu.be/qRAHEnm12Bs)]
-- Latihan 4: Kesalahan kompilasi 1 [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan4)] [[Pembahasan]()][[CodePost](https://www.codepost.io/): Latihan 4]*
-- Latihan 5: Kesalahan kompilasi 2 [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan5)] [[Pembahasan]()][[CodePost](https://www.codepost.io/): Latihan 5]*
-- Latihan 6: Kesalahan run time [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan6)] [[Pembahasan]()][[CodePost](https://www.codepost.io/): Latihan 6]*
-- Latihan 7: Kesalahan Logika [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan7)] [[Pembahasan]()][[CodePost](https://www.codepost.io/): Latihan 7]*
+- Latihan 4: Kesalahan kompilasi 1 [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan4)] [[Pembahasan](https://youtu.be/JK0DPFaRpGY)][[CodePost](https://www.codepost.io/): Latihan 4]*
+- Latihan 5: Kesalahan kompilasi 2 [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan5)] [[Pembahasan](https://youtu.be/0PZA84AuNho)][[CodePost](https://www.codepost.io/): Latihan 5]*
+- Latihan 6: Kesalahan kompilasi 3 [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan6)] [[Pembahasan](https://youtu.be/scfFyVSL_Tk)][[CodePost](https://www.codepost.io/): Latihan 6]*
+- Latihan 7: Kesalahan Logika [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan7)] [[Pembahasan](https://youtu.be/G2q_BdgEdmw)][[CodePost](https://www.codepost.io/): Latihan 7]*
 
 Modul 4: Percabangan (kondisi)
 - if, if else, if else if, nested if [[Video](https://youtu.be/3PDcEyPbODc)]
 - Ternary operator [[Video](https://youtu.be/tOL_4tPzWq4)]
-- Latihan 8: Mencari nilai maksimum [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan8)] [[Pembahasan]()][[CodePost](https://www.codepost.io/): Maksimum dan minimum]*
-- Latihan 9: Perhitungan pajak [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan9)] [[Pembahasan]()][[CodePost](https://www.codepost.io/): Hitung pajak]*
+- Latihan 8: Mencari nilai maksimum [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan8)] [[Pembahasan](https://youtu.be/g5qSE8i4POY)][[CodePost](https://www.codepost.io/): Maksimum dan minimum]*
+- Latihan 9: Perhitungan pajak [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan9)] [[Pembahasan](https://youtu.be/1g7Wjs97XMQ)][[CodePost](https://www.codepost.io/): Hitung pajak]*
 
 Modul 5: Perulangan (looping)
 - while dan for loop [[Video](https://youtu.be/Gpya9oGrkaY)]
