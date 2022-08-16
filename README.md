@@ -11,7 +11,7 @@ Modul 2: Variabel dan Operator
 - Variabel [[Video](https://youtu.be/Ca0N2hmSd-k)]
 - Operator aritmatik, relasional dan logika [[Video](https://youtu.be/uLr7xOZcHio)]
 - Latihan 2: Genap atau ganjil [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan2)] [[Pembahasan]()][[codePost](https://www.codepost.io/): Genap atau ganjil]*
-- Latihan 3: Penjumlahan dua waktu [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)][[Pembahasan](https://youtu.be/NGjI4z1h4xw)][[codePost: Penjumlahan dua waktu](https://www.codepost.io/)]*
+- Latihan 3: Penjumlahan dua waktu [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)][[Pembahasan](https://youtu.be/NGjI4z1h4xw)][[codePost](https://www.codepost.io/): Penjumlahan dua waktu]*
 
 Modul 3: Debugging dan Standar Pengkodean (Coding Standard)
 - Pengenalan jenis error dan fitur debugging dengan IDE [[Video](https://youtu.be/mcJzoLn8_Ss)]

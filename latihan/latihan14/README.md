@@ -53,7 +53,7 @@ public class Matrix {
 }
 
 ```
-Kumpulkan jawaban anda via CodePost](https://www.codepost.io/) dengan nama tugas: Latihan 14. Untuk menggunakan codePost, anda harus membuat akun dan dimasukkan dalam daftar kelas. Hubungi tisha[dot]melia[at]lecturer[dot]unri[dot]ac[dot]id untuk mendaftar.
+Kumpulkan jawaban anda via CodePost](https://www.codepost.io/) dengan nama tugas: Cetak Matrix. Untuk menggunakan codePost, anda harus membuat akun dan dimasukkan dalam daftar kelas. Hubungi tisha[dot]melia[at]lecturer[dot]unri[dot]ac[dot]id untuk mendaftar.
 
 Selamat Bekerja!
 

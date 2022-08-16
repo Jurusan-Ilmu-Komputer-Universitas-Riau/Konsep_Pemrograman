@@ -42,7 +42,7 @@ public class ArithmeticCalculation {
 }
 
 ```
-Kumpulkan jawaban anda via CodePost](https://www.codepost.io/) dengan nama tugas: Latihan 12. Untuk menggunakan codePost, anda harus membuat akun dan dimasukkan dalam daftar kelas. Hubungi tisha[dot]melia[at]lecturer[dot]unri[dot]ac[dot]id untuk mendaftar.
+Kumpulkan jawaban anda via CodePost](https://www.codepost.io/) dengan nama tugas: Hitung Pangkat. Untuk menggunakan codePost, anda harus membuat akun dan dimasukkan dalam daftar kelas. Hubungi tisha[dot]melia[at]lecturer[dot]unri[dot]ac[dot]id untuk mendaftar.
 
 Selamat Bekerja!
 

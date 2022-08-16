@@ -63,7 +63,7 @@ public class Word {
 
 
 ```
-Kumpulkan jawaban anda via CodePost](https://www.codepost.io/) dengan nama tugas: Latihan 13. Untuk menggunakan codePost, anda harus membuat akun dan dimasukkan dalam daftar kelas. Hubungi tisha[dot]melia[at]lecturer[dot]unri[dot]ac[dot]id untuk mendaftar.
+Kumpulkan jawaban anda via CodePost](https://www.codepost.io/) dengan nama tugas: Acak Kata. Untuk menggunakan codePost, anda harus membuat akun dan dimasukkan dalam daftar kelas. Hubungi tisha[dot]melia[at]lecturer[dot]unri[dot]ac[dot]id untuk mendaftar.
 
 Selamat Bekerja!
 
