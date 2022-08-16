@@ -40,6 +40,6 @@ Modul 6: Fungsi/Methods
 Modul 7: Array
 - Deklarasi array, instansiasi array, perulangan [[Video](https://youtu.be/tm08XpT-kJw)]
 - Array multidimensi [[Video](https://youtu.be/pjOSn8ntsZk)]
-- Latihan 14: Permainan tic tac toe [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)][[Pembahasan](https://youtu.be/8UENq6frrqM)][[CodePost](https://www.codepost.io/): Cetak matriks]*
+- Latihan 14: Permainan tic tac toe [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan14)][[Pembahasan](https://youtu.be/8UENq6frrqM)][[CodePost](https://www.codepost.io/): Cetak matriks]*
 
 *) Untuk menggunakan codePost, anda harus membuat akun dan dimasukkan dalam daftar kelas. Hubungi tisha[dot]melia[at]lecturer[dot]unri[dot]ac[dot]id agar nama anda dapat didaftarkan sebagai mahasiswa modul ini.
