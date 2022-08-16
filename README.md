@@ -10,7 +10,7 @@ Modul 1: Pengantar Konsep Pemrograman
 Modul 2: Variabel dan Operator
 - Variabel [[Video](https://youtu.be/Ca0N2hmSd-k)]
 - Operator aritmatik, relasional dan logika [[Video](https://youtu.be/uLr7xOZcHio)]
-- Latihan 2: Genap atau ganjil [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan2)] [[Pembahasan]()][[codePost](https://www.codepost.io/): Genap atau ganjil]*
+- Latihan 2: Genap atau ganjil [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan2)] [[Pembahasan](https://youtu.be/7Kdxnq1XGmU)][[codePost](https://www.codepost.io/): Genap atau ganjil]*
 - Latihan 3: Penjumlahan dua waktu [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan3)][[Pembahasan](https://youtu.be/NGjI4z1h4xw)][[codePost](https://www.codepost.io/): Penjumlahan dua waktu]*
 
 Modul 3: Debugging dan Standar Pengkodean (Coding Standard)
@@ -29,7 +29,7 @@ Modul 4: Percabangan (kondisi)
 
 Modul 5: Perulangan (looping)
 - while dan for loop [[Video](https://youtu.be/Gpya9oGrkaY)]
-- Latihan 10: Tebak-tebak hasil program [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan10)][[Pembahasan]()]
+- Latihan 10: Tebak-tebak hasil program [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan10)][[Pembahasan](https://youtu.be/SzBdRJChFcY)]
 - Latihan 11: Pengecekan bilangan prima [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan11)][[Pembahasan](https://youtu.be/WNBCo2NRm0s)][[CodePost](https://www.codepost.io/): Bilangan prima]*
 
 Modul 6: Fungsi/Methods
