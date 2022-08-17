@@ -53,7 +53,8 @@ public class Matrix {
 }
 
 ```
-Kumpulkan jawaban anda via CodePost](https://www.codepost.io/) dengan nama tugas: Cetak Matrix. Untuk menggunakan codePost, anda harus membuat akun dan dimasukkan dalam daftar kelas. Hubungi tisha[dot]melia[at]lecturer[dot]unri[dot]ac[dot]id untuk mendaftar.
+Kumpulkan jawaban anda via CodePost](https://www.codepost.io/) dengan nama tugas: Cetak Matrix. Agar dapat mengumpulkan latihan melalui autograder codepost, ikuti tutorial [berikut](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Modul_Belajar_Pemrograman/tree/main/codepost).
+
 
 Selamat Bekerja!
 
