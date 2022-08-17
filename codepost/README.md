@@ -3,7 +3,7 @@
 Mendaftar codepost
 1. Buka codepost dengan menggunakan URL berikut [https://codepost.io/signup/join?code=OLKFCHWIA5](https://codepost.io/signup/join?code=OLKFCHWIA5). Kode invite akan otomatis terisi seperti gambar di bawah. Isi email anda dan klik continue.
 
-![Gambar Join](fig/join.png =500x)
+<img src="fig/join.pn" width="500">
 
 2. Langkah berikutnya adalah codepost akan mengirim email konfirmasi ke email anda.
 ![Gambar Join](fig/cekimel.png)![Gambar Join](fig/cekimel2.png)
