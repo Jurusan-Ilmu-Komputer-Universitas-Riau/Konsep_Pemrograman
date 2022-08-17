@@ -8,7 +8,7 @@ Mendaftar codepost
 
 3. Klik link yang dikirimkan di email anda, dimana anda akan diminta mengganti password. <img src="fig/gantipass.png" width="600">
 
-4. Login ke akun anda dengan password yang baru anda masukkan, anda akan melihat daftar latihan yang bisa anda kumpulkan.      <img src="fig/dashboard.png" width="600">
+4. Login dengan password yang baru anda masukkan untuk mengakses latihan yang bisa anda kumpulkan. <img src="fig/dashboard.png" width="600">
 
 <br/>
 <br/>
