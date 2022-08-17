@@ -6,14 +6,18 @@ Mendaftar codepost
 <img src="fig/join.png" width="600">
 
 2. Langkah berikutnya adalah codepost akan mengirim email konfirmasi ke email anda.
-<img src="fig/cekimel.png" width="600">
-<img src="fig/cekimel2.png" width="600">
+<img src="fig/cekimel.png" width="600"><img src="fig/cekimel2.png" width="600">
 
 3. Klik link yang dikirimkan di email anda, dimana anda akan diminta mengganti password.
 <img src="fig/gantipass.png" width="600">
 
 4. Login ke akun codepost anda dengan password yang baru anda masukkan, kemudian anda akan melihat daftar latihan yang bisa anda kumpulkan.
 <img src="fig/dashboard.png" width="600">
+
+
+
+
+
 
 
 
