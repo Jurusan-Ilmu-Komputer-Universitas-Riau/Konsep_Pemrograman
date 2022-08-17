@@ -15,7 +15,10 @@ Mendaftar codepost
 4. Login ke akun codepost anda dengan password yang baru anda masukkan, kemudian anda akan melihat daftar latihan yang bisa anda kumpulkan.
 <img src="fig/dashboard.png" width="600">
 
-Mengumpulkan tugas melalui codepost
+
+
+
+## Mengumpulkan tugas melalui codepost
 1. Login ke akun anda dan pastikan kelas yang terpilih adalah "Modul Interaktif Konsep Pemrograman".
 2. Pilih tugas yang anda akan kumpulkan, klik "Upload assignment"
 <img src="fig/uploadtugas.png" width="600">
