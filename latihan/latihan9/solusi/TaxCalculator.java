@@ -10,6 +10,8 @@
  * Kelas ini digunakan untuk menghitung besaran pajak
  * 
  */
+import java.util.Scanner;
+
 public class TaxCalculator {
     final static int ADDITION_PER_DEPENDENT = 4500000;
     final static int PTKP_NOTMARRIED = 54000000;
@@ -17,17 +19,26 @@ public class TaxCalculator {
     
     public static void main(String[] args) {
         
-        //Penghitungan pajak kasus 1
-        int tax = calculateTax(150000000, "TK", 0);
-        System.out.println(tax);
-        
-        //Penghitungan pajak kasus 2
-        tax = calculateTax(150000000, "TK", 3);
-        System.out.println(tax);
-        
-        //Penghitungan pajak kasus 2
-        tax = calculateTax(150000000, "K", 3);
-        System.out.println(tax);
+        int salary, dependent;
+        String status;
+        Scanner input = new Scanner(System.in);
+
+        System.out.print("Masukkan jumlah gaji setahun: ");
+        salary = input.nextInt();
+
+        System.out.print("Masukkan jumlah tanggungan: ");
+        dependent = input.nextInt();
+        input.nextLine();
+
+        System.out.print("Masukkan status perkawinan: ");
+        status = input.nextLine();
+
+        System.out.println("Gaji: " + salary);
+        System.out.println("Tanggungan: " + status);
+        System.out.println("Status Perkawinan: " + dependent);
+
+        int curTax = calculateTax(salary, status, dependent);
+        System.out.println("Pajak: " + curTax);
     }
 
     /**
@@ -47,13 +58,13 @@ public class TaxCalculator {
         dependentNum = dependentNum < 0 ? 0 : dependentNum;
             
         //Menghitung PKP/Pendapatan Kena pajak
-        if(marriageStatus == "TK"){ //penghitungan pajak bagi yang belum kawin
+        if(marriageStatus.equals("TK")){ //penghitungan pajak bagi yang belum kawin
            
             //Menghitung PTKP (Pendapatan Tidak Kena Pajak)
             int ptkp = PTKP_NOTMARRIED + (dependentNum * ADDITION_PER_DEPENDENT);
             PKP = annualSalary - ptkp;
             
-        }else if(marriageStatus == "K"){ //penghitungan pajak bagi yang sudah kawin
+        }else if(marriageStatus.equals("K")){ //penghitungan pajak bagi yang sudah kawin
             
             //Menghitung PTKP (Pendapatan Tidak Kena Pajak)
             int ptkp = PTKP_MARRIED + (dependentNum * ADDITION_PER_DEPENDENT);
@@ -61,7 +72,7 @@ public class TaxCalculator {
         }
         
         //Perhitungan pajak berdasarkan tarif pajak
-        if(PKP <= 50000000){
+        if(PKP <= 50000000 && PKP > 0){
             tax = 5 * PKP / 100;
         }else if (PKP > 50000000 && PKP <= 250000000){
             tax = 15 * PKP / 100;

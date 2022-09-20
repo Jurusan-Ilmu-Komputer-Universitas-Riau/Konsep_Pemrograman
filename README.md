@@ -5,7 +5,7 @@ Agar dapat mengumpulkan latihan melalui autograder codepost, ikuti tutorial [ber
 
 Modul 1: Pengantar Konsep Pemrograman
 - Pengantar konsep pemrograman dan algoritma [[Video](https://youtu.be/rl3S9SiRCEU)]
-- Pengenalan bahasa pemrograman, kompiler dan Java Virtual Machine [[Video](https://youtu.be/zqTh9WXW9gg)]
+- Pengantar Pemrograman Java [[Video](https://youtu.be/zqTh9WXW9gg)]
 - Pembuatan program pertama: Hello World [[Video](https://youtu.be/lIYRXlUHJRQ)]
 - Latihan 1: Halo UNRI! [[Soal](https://github.com/Jurusan-Ilmu-Komputer-Universitas-Riau/Konsep_Pemrograman/tree/main/latihan/latihan1)] [[Pembahasan](https://youtu.be/LIZ-G7iIyFI)][[codePost](https://www.codepost.io/): Halo Unri]
 
